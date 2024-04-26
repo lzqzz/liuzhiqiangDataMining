@@ -1,6 +1,6 @@
-# lzqDataMining
+# liuzhiqiangDataMining
 ## 创建新的仓库
-命名为lzqDataMining 初始化时Add a Readme file
+命名为liuzzhiqiangDataMining 初始化时Add a Readme file
 
 ## 上传ppt
 1.首先在本地建一个文件用于`git clone`操作，将创建的仓库文件克隆到本地
